@@ -1,11 +1,9 @@
-﻿using System
 ﻿using System;
 
 namespace Strings_Varnell_Bridget
 {
     class Program
-{ 
-static void}    {
+    {
         static void Main(string[] args)
         {
             // Askes user to input a character and assigns input to a variable
